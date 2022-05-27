@@ -1,0 +1,2 @@
+# Handmade-Ultrasonic-Sensor-Circuit-JLCPCB-
+In this article, we’ll teach you making a handmade ultrasonic sensor circuit. It is a very useful and interesting project circuit. The sensor circuit can trace any kind of movement in front of this and at the same the buzzer can make sound to alert you. The sound will be louder, when the subject become closer to the sensor circuit.  The best facility of this circuit is that, this circuit can be operated using only DC 3.7 volt. That means, this will safe electric energy. 
