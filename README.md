@@ -33,11 +33,17 @@ All Component list have to been given below –
 Component List – 
 
 •	Timer IC – NE 555
+
 •	Resistor – 1 KΩ
+
 •	Capacitor - 10µf/ 50v
+
 •	Capacitor - 100µf/ 25v
+
 •	Potentiometer - 20 KΩ
+
 •	Power Source - 3.7v
+
 •	Ultrasonic Sensor Circuit
 
 
@@ -77,12 +83,19 @@ Its 8 legs Pin Out can be seen above.
 Feature - 
 
 •	Supply voltage: 5V (DC).
+
 •	Supply current: 15mA.
+
 •	Modulation frequency: 40Hz.
+
 •	Output: 0 – 5V (Output high when obstacle detected in range).
+
 •	Beam Angle: Max 15 degrees.
+
 •	Distance: 2cm – 400cm.
+
 •	Accuracy: 0.3cm.
+
 •	Communication: Positive TTL pulse.
 
 
@@ -118,8 +131,11 @@ This is the final step of this ultrasonic circuit. Now we just need to connect s
 Follow the steps below -
 
 •	Vcc leg with 4no leg of timer IC
+
 •	Trig leg with 3no leg of timer IC
+
 •	Echo leg with buzzer negative leg
+
 •	Gnd leg with 1no leg of timer IC
 
 Steps to Order PCBs from JLCPCB - 
@@ -142,35 +158,55 @@ Steps to Order SMT PCBs from JLCPCB -
 To order your SMT PCBs, visit JLCPCB.
 
 •	Drag and drop SMT PCBs file on site.
+
 •	Choose your PCBs color and quantity.
+
 •	To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
+
 •	Add your BOM file and CPL file.
+
 •	Place your order click on “Save to Cart” button.
+
 •	Confirm your shipping address and shipping method.
+
 •	Pay your payment
+
 •	Wait for confirmation mail.
+
 •	For SMT Service, Click here. https://cart.jlcpcb.com/quote?orderType=1&stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5
 
 Shipping and Billing - 
 
 JLCPCB supported all shipping method can be seen below.
 
-•	Estimated Delivery Time
+Estimated Delivery Time
+
+
 •	DHL International Express 3-5 business days
+
 •	UPS Worldwide Saver 3-6 business days
+
 •	S.F Express (Standard) 5-8 business days
+
 •	S.F Express (Economy) 8-15 business days
+
 •	Singapore EMS 8-15 business days
+
 •	Post Link Registered Mail 15-20 business days
+
 •	ePacket 15-25 business days
+
 •	Registered Air Mail 15-20 business days
 
 
 JLCPCB supported Payment method -
 
 •	PayPal
+
 •	Credit/Debit Care
+
 •	Prepaid wire transfer
+
 
 Confirm PCBs order - 
 
